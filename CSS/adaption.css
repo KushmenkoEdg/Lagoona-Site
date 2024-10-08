@@ -1,6 +1,6 @@
 /* header */
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 400px){
     .wrapper{
         background-color: aqua;
     }
